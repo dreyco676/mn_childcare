@@ -3,4 +3,5 @@
 # TODO
 * Calc Centroids for each ACS Block Group
 * Weighted Kernel Density Estimation Plot
-	* Seaborn KDE plot???
+	* https://residentmario.github.io/geoplot/api_reference.html
+	* https://seaborn.pydata.org/generated/seaborn.kdeplot.html#seaborn.kdeplot
