@@ -1,5 +1,4 @@
-# mn_childcare
-Geospatial Analysis of Child Care Deserts in Minnesota
+# Geospatial Analysis of Child Care Deserts in Minnesota
 
 # TODO
 * Calc Centroids for each ACS Block Group
